@@ -3,7 +3,7 @@
 namespace tests;
 
 use PHPUnit\Framework\TestCase;
-use controller\AddItem;
+use App\Controller\AddItem;
 
 class AddItemTest extends TestCase
 {

@@ -1,0 +1,1 @@
+{"version":1,"defects":{"tests\\AddItemTest::testIsEmailValide":8,"tests\\AddItemTest::testIsEmailInvalide":8,"tests\\AddItemTest::testFormValidationWithErrors":8},"times":{"tests\\AddItemTest::testIsEmailValide":0.008,"tests\\AddItemTest::testIsEmailInvalide":0,"tests\\AddItemTest::testFormValidationWithErrors":0}}
