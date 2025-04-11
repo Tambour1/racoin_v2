@@ -1,6 +1,6 @@
 <?php
 
-namespace model;
+namespace App\Model;
 
 class ApiKey extends \Illuminate\Database\Eloquent\Model {
     protected $table = 'apikey';
@@ -8,4 +8,3 @@ class ApiKey extends \Illuminate\Database\Eloquent\Model {
     public $timestamps = false;
 
 }
-?>

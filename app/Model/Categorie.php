@@ -1,6 +1,6 @@
 <?php
 
-namespace model;
+namespace App\Model;
 
 class Categorie extends \Illuminate\Database\Eloquent\Model {
     protected $table = 'categorie';
@@ -8,4 +8,3 @@ class Categorie extends \Illuminate\Database\Eloquent\Model {
     public $timestamps = false;
 }
 
-?>
